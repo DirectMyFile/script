@@ -1,0 +1,6 @@
+name: script
+description: Scripting Interfaces
+version: 1.0.0
+author: Kenneth Endfinger
+dependencies:
+  petitparser: ">=1.3.7 <2.0.0"
